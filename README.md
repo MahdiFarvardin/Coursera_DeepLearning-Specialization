@@ -1,2 +1,2 @@
 # Coursera_DeepLearning-Specialization
-Implementing this course's assignments in python.
+Implementing Deep Learning Specialization assignment in python
